@@ -1,3 +1,7 @@
+# Nama	        : Alifah Fa'izah Rufaidah
+# NPM		    : 140810240006
+# Kelas		    : B
+
 import streamlit as st
 from PIL import Image
 import numpy as np
